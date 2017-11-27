@@ -4,10 +4,3 @@ hello
 
 
 here i am
-
-
-
-
-wow
-
-closeOuterDelay
