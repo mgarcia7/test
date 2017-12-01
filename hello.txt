@@ -1,6 +1,6 @@
 hello
 
 
-kal=0
+kal=nullptr
 
 here i am
