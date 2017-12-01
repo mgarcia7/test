@@ -1,6 +1,6 @@
 hello
 
 
-kal=1
+kal=0
 
 here i am
